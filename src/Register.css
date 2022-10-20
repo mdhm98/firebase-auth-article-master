@@ -16,7 +16,7 @@
 
 .register__textBox {
   padding: 10px;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 10px;
 }
 
@@ -25,12 +25,12 @@
   font-size: 18px;
   margin-bottom: 10px;
   border: none;
-  color: white;
+  color: blue;
   background-color: black;
 }
 
 .register__google {
-  background-color: #4285f4;
+  background-color: green;
 }
 
 .register div {
